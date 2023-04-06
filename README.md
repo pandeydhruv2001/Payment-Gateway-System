@@ -35,11 +35,9 @@ If you encounter any issues with the payment gateway system, please create a [ne
 ## Contributing
 Contributions to the payment gateway system are always welcome. If you would like to contribute, please create a [pull request](https://github.com/pandeydhruv2001/Payment-Gateway-System/pulls).
 
-## Website Link
-To install the payment gateway system,Clone this repository to your local machine using the command:
-``````````````
-https://pandeydhruv2001.github.io/Payment-Gateway-System/
-``````````````
+[Click here to launch the Website](https://pandeydhruv2001.github.io/Payment-Gateway-System/)
+
+
 
 
 
