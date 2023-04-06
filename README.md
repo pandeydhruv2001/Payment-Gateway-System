@@ -1,7 +1,7 @@
 # Parivartan : Payment Gateway System
 
 ## Description
-- This is a Web Development Project for The Sparks Foundation GRIP Internship of April 2023.
+- This is a Web Development Project developed under GRIP Internship Programme (April'23) by The Sparks Foundation.
 - This is a simple payment gateway system that allows users to make payments online using a credit or debit card. 
 - The system is built using HTML, CSS, and JavaScript.
 
@@ -34,4 +34,12 @@ If you encounter any issues with the payment gateway system, please create a [ne
 
 ## Contributing
 Contributions to the payment gateway system are always welcome. If you would like to contribute, please create a [pull request](https://github.com/pandeydhruv2001/Payment-Gateway-System/pulls).
+
+## Website Link
+To install the payment gateway system,Clone this repository to your local machine using the command:
+``````````````
+https://pandeydhruv2001.github.io/Payment-Gateway-System/
+``````````````
+
+
 
