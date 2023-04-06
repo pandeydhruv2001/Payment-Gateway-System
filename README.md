@@ -1,4 +1,4 @@
-# Parivartan : Payment Gateway System
+# [Parivartan : Payment Gateway System](https://pandeydhruv2001.github.io/Payment-Gateway-System/)
 
 ## Description
 - This is a Web Development Project developed under GRIP Internship Programme (April'23) by The Sparks Foundation.
@@ -34,10 +34,3 @@ If you encounter any issues with the payment gateway system, please create a [ne
 
 ## Contributing
 Contributions to the payment gateway system are always welcome. If you would like to contribute, please create a [pull request](https://github.com/pandeydhruv2001/Payment-Gateway-System/pulls).
-
-[Click here to launch the Website](https://pandeydhruv2001.github.io/Payment-Gateway-System/)
-
-
-
-
-
