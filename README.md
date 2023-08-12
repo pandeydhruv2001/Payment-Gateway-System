@@ -1,5 +1,7 @@
 # [Parivartan : Payment Gateway System](https://pandeydhruv2001.github.io/Payment-Gateway-System/)
 
+![PGS Screenshot](Payment.png)
+
 ## Description
 - This is a Web Development Project developed under GRIP Internship Programme (April'23) by The Sparks Foundation.
 - This is a simple payment gateway system that allows users to make payments online using a credit or debit card. 
